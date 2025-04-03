@@ -4,6 +4,12 @@ PlayTube is a **YouTube Clone** that uses the **YouTube Data API v3** to fetch a
 
 ---
 
+##Screenshots 📸 
+![Homepage](https://github.com/user-attachments/assets/a49416b2-8e28-42cc-b480-818144958df8)
+![video-page](https://github.com/user-attachments/assets/04b6f534-abbf-4a23-9183-6b2503d43d87)
+
+
+
 ## 🚀 Features
 
 ✅ Search for videos using the YouTube Data API v3  
@@ -28,7 +34,7 @@ PlayTube is a **YouTube Clone** that uses the **YouTube Data API v3** to fetch a
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/PlayTube.git
+git clone https://github.com/aniket-dev30/PlayTube.git
 cd PlayTube
 ```
 
@@ -67,7 +73,7 @@ Feel free to contribute by creating a pull request! Suggestions and improvements
 ## 📩 Contact
 If you have any questions, feel free to reach out:  
 📧 Email: your.email@example.com  
-🔗 GitHub: [YourGitHubProfile](https://github.com/YOUR_GITHUB_USERNAME)  
+🔗 GitHub: https://github.com/aniket-dev30
 
 
 
