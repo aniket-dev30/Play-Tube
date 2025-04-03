@@ -6,10 +6,14 @@ PlayTube is a **YouTube Clone** that uses the **YouTube Data API v3** to fetch a
 
 ##Screenshots 📸 
 
-Homepage of Website-:
+### 🏠 **Homepage of Website**
+
+
 ![Homepage](https://github.com/user-attachments/assets/a49416b2-8e28-42cc-b480-818144958df8)
 
-Video Page of Website --:
+📺 **Video Page of Website**
+
+
 ![video-page](https://github.com/user-attachments/assets/04b6f534-abbf-4a23-9183-6b2503d43d87)
 
 
