@@ -31,9 +31,8 @@ PlayTube is a **YouTube Clone** that uses the **YouTube Data API v3** to fetch a
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React, if used)  
+- **Frontend:** HTML, CSS,Javascript and React+vite
 - **API:** YouTube Data API v3  
-- **Backend:** (If applicable, mention Node.js/Express, Firebase, etc.)
 - **Styling:** CSS/Tailwind/Bootstrap (whichever you used)  
 
 ---
