@@ -69,7 +69,9 @@ const API_KEY = 'YOUR_YOUTUBE_API_KEY';
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software with proper attribution.
 
 ---
 
@@ -80,7 +82,7 @@ Feel free to contribute by creating a pull request! Suggestions and improvements
 
 ## 📩 Contact
 If you have any questions, feel free to reach out:  
-📧 Email: your.email@example.com  
+📧 Email: ani30jha@gmail.com
 🔗 GitHub: https://github.com/aniket-dev30
 
 
